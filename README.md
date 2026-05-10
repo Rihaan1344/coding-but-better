@@ -30,6 +30,4 @@ However, templated API is limited to _50 uses_ for **life**, which is why I deci
 
 You can get your own keys and run it locally with the links provided. 
 
-Of course I didn't push my .env file and variables! And you better not make that mistake either, sneaky devs :)
-
 Okay, bye!
